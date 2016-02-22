@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ujjwalt]]></title>
+        <description><![CDATA[Ujjwalt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 02:02:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beautiful North East]]></title>
+            <description><![CDATA[<article><h1>Beautiful North East</h1><p>Beautiful Arunachal</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9b61df3977f10fb21362efe485b34e01c627974.jpg"></article>]]></description>
+            <link>undefinedbeautiful-north-east/index.html</link>
+            <guid isPermaLink="false">00dc62dd-e704-4690-beab-18395259ccae</guid>
+            <pubDate>Mon, 22 Feb 2016 01:59:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
